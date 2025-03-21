@@ -20,4 +20,4 @@ LegalSuite Pro is a sophisticated court management platform tailored for law fir
 
 ## Links
 - **Live Application:**: [Legal Buddy App](https://legal-buddy-app.vercel.app/)
-- **Source Code:**: [GitHub Link]([https://github.com/dev-soni-07/Legal-Buddy-App/](https://github.com/Amir76717/LegalSuite-Pro-Advanced-Court-Management-System/))
+- **Source Code:**: [GitHub Link]([https://github.com/Amir76717/LegalSuite-Pro-Advanced-Court-Management-System/])
